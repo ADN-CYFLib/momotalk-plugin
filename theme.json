@@ -1,18 +1,24 @@
 {
-    "name": "MomoTalk Theme",
-      "description": "Blue Archive style",
-        "authors": [{ "name": "ADN" }],
-          "spec": 2,
-            "semanticColors": {
-                "BACKGROUND_PRIMARY": ["#FFFFFF", "#FFFFFF"],
-                    "BACKGROUND_SECONDARY": ["#FFFFFF", "#FFFFFF"],
-                        "BACKGROUND_TERTIARY": ["#1A237E", "#1A237E"],
-                            "BACKGROUND_SECONDARY_ALT": ["#FFFFFF", "#FFFFFF"],
-                                "BACKGROUND_MOBILE_PRIMARY": ["#FFFFFF", "#FFFFFF"],
-                                    "BACKGROUND_MOBILE_SECONDARY": ["#FFFFFF", "#FFFFFF"],
-                                        "BACKGROUND_ACCENT": ["#FFFFFF", "#FFFFFF"],
-                                            "BACKGROUND_FLOATING": ["#FFFFFF", "#FFFFFF"],
-                                                "HEADER_PRIMARY": ["#FF4081", "#FF4081"],
-                                                    "TEXT_NORMAL": ["#333333", "#333333"]
-                                                      }
-                                                      }
+  "name": "MomoTalk Theme",
+  "description": "Blue Archive style",
+  "authors": [{ "name": "ADN" }],
+  "spec": 2,
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": ["#FFFFFF", "#FFFFFF"],
+    "BACKGROUND_SECONDARY": ["#FFFFFF", "#FFFFFF"],
+    "BACKGROUND_TERTIARY": ["#1A237E", "#1A237E"],
+    "BACKGROUND_SECONDARY_ALT": ["#FFFFFF", "#FFFFFF"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#FFFFFF", "#FFFFFF"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#FFFFFF", "#FFFFFF"],
+    "BACKGROUND_ACCENT": ["#FFFFFF", "#FFFFFF"],
+    "BACKGROUND_FLOATING": ["#FFFFFF", "#FFFFFF"],
+    "HEADER_PRIMARY": ["#FF4081", "#FF4081"],
+    "TEXT_NORMAL": ["#333333", "#333333"]
+  },
+  "rawColors": {
+    "primary_100": "#FFFFFF",
+    "primary_200": "#FFFFFF",
+    "primary_600": "#FFFFFF",
+    "primary_630": "#FFFFFF"
+  }
+}
