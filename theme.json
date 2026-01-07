@@ -4,20 +4,20 @@
   "authors": [{ "name": "ADN" }],
   "spec": 2,
   "semanticColors": {
-    "BACKGROUND_PRIMARY": ["#FFFFFF", "#FFFFFF"],
+    "BACKGROUND_PRIMARY": ["#1A237E", "#1A237E"],
     "BACKGROUND_SECONDARY": ["#FFFFFF", "#FFFFFF"],
-    "BACKGROUND_TERTIARY": ["#1A237E", "#1A237E"],
+    "BACKGROUND_TERTIARY": ["#FFFFFF", "#FFFFFF"],
     "BACKGROUND_SECONDARY_ALT": ["#FFFFFF", "#FFFFFF"],
-    "BACKGROUND_MOBILE_PRIMARY": ["#FFFFFF", "#FFFFFF"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#1A237E", "#1A237E"],
     "BACKGROUND_MOBILE_SECONDARY": ["#FFFFFF", "#FFFFFF"],
     "BACKGROUND_ACCENT": ["#FFFFFF", "#FFFFFF"],
     "HEADER_PRIMARY": ["#FF4081", "#FF4081"],
     "TEXT_NORMAL": ["#333333", "#333333"]
   },
   "rawColors": {
-    "primary_100": "#333333",
-    "primary_600": "#FFFFFF",
-    "primary_630": "#FFFFFF",
-    "primary_660": "#FFFFFF"
+    "primary_100": "#FFFFFF",
+    "primary_600": "#1A237E",
+    "primary_630": "#1A237E",
+    "primary_660": "#1A237E"
   }
 }
