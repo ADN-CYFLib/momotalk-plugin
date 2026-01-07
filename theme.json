@@ -1,0 +1,12 @@
+{
+      "name": "MomoTalk Theme",
+        "description": "Blue Archive style",
+          "authors": [{ "name": "ADN-CYFLib" }],
+            "spec": 2,
+              "semanticColors": {
+                  "BACKGROUND_TERTIARY": ["#1A237E", "#1A237E"],
+                      "HEADER_PRIMARY": ["#FF4081", "#FF4081"],
+                          "BACKGROUND_PRIMARY": ["#FFFFFF", "#FFFFFF"],
+                              "TEXT_NORMAL": ["#333333", "#333333"]
+                                }
+                                }
